@@ -1,0 +1,25 @@
+Modified Files:
+
+- AbstracHashMap.java: Suggestion: copy+paste the file over the older one
+-- nextPrime
+-- updateHashParams
+
+- HashBasedWordCO.java: The changes are not about the methods you need to modify. Suggestion: back up the old file and only copy the content of the methods you have modified
+-- Changed constructors
+-- Added new setter methods
+-- Hint: If you trust your hashset, create one from the ignored list!
+
+- HashMapSC.java: Either copy+pase the methods or apply the suggestion sent as an announcement. Do not do anything if already updated 
+-- Changed the resize buckets method as described in the announcement
+
+- Test.java: Suggestion: copy+paste the file over the older one
+-- Too many changes to list
+
+Added Files: Add all of the files under the correct folders
+- Autograder Package
+- Util.java
+- TestHashMap.java
+
+Inputs: Add all of the files under the correct folders
+- Changed keywords.txt
+- Added NewsCounts and NewsSets folders
